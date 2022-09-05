@@ -1,9 +1,16 @@
 # PDF Merge Tool
 
+## Build
+
+```bash
+$ poetry build
+$ pip install dist/pdfmerge-0.1.0.tar.gz
+```
+
 ## Usage
 
 ```bash
-$ python main.py  --input-dir .
+$ pdfmerge  --input-dir .
 ```
 
 ## Refs
