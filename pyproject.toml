@@ -1,9 +1,17 @@
 [tool.poetry]
-name = "pdfmerge"
-version = "0.1.0"
-description = ""
-authors = ["maguowei <imaguowei@gmail.com>"]
+name = "pdfmerge-cli"
+version = "0.1.1"
+description = "pdf merge command line"
+keywords = ["pdfmerge", "pdfmerge-cli"]
+authors = ["maguowei <i.maguowei@gmail.com>"]
+repository = "https://github.com/maguowei/pdfmerge"
+homepage = "https://github.com/maguowei/pdfmerge"
 readme = "README.md"
+license = "MIT"
+
+packages = [
+    { include = "pdfmerge" },
+]
 
 [tool.poetry.dependencies]
 python = "^3.9"

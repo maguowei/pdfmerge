@@ -4,7 +4,13 @@
 
 ```bash
 $ poetry build
-$ pip install dist/pdfmerge-0.1.0.tar.gz
+$ pip install dist/pdfmerg-x.x.x.tar.gz
+```
+
+## Install
+
+```bash
+$ pip install pdfmerge-cli
 ```
 
 ## Usage
