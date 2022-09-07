@@ -1,4 +1,4 @@
-# PDF Merge Tool
+# PDF Merge CLI
 
 ## Build
 
