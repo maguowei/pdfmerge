@@ -1,5 +1,8 @@
 # PDF Merge CLI
 
+[![ci](https://github.com/maguowei/pdfmerge/actions/workflows/ci.yml/badge.svg)](https://github.com/maguowei/pdfmerge/actions/workflows/ci.yml)
+[![Upload Python Package](https://github.com/maguowei/pdfmerge/actions/workflows/python-publish.yml/badge.svg)](https://github.com/maguowei/pdfmerge/actions/workflows/python-publish.yml)
+
 ## Build
 
 ```bash
@@ -16,9 +19,5 @@ $ pip install pdfmerge-cli
 ## Usage
 
 ```bash
-$ pdfmerge  --input-dir .
+$ pdfmerge --input-dir .
 ```
-
-## Refs
-
-- [py-pdf/PyPDF2](https://github.com/py-pdf/PyPDF2)
