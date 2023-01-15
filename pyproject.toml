@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pdfmerge-cli"
-version = "0.1.1"
+version = "0.2.0"
 description = "pdf merge command line"
 keywords = ["pdfmerge", "pdfmerge-cli"]
 authors = ["maguowei <i.maguowei@gmail.com>"]
